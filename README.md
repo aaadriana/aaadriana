@@ -12,7 +12,7 @@ I moved to London in 2017 with my husband and have tried to find something to be
 
 My coding journey started in 2020 when I decided to experiment with online tutorials, in order to see if coding is something I can do and maybe become passionate about. I fell in love with it.
 
-### Now I am happy to be part of the FAC22 Cohort @foundersandcoders
+### Now I am happy to be part of the FAC22 Cohort [@foundersandcoders](https://github.com/foundersandcoders)
 
 ## Profile Links 🔗
 * [FreeCodeCamp](https://www.freecodecamp.org/aaadriana)
