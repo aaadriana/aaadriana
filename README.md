@@ -20,6 +20,14 @@ My coding journey started in 2020 when I decided to experiment with online tutor
 * [LinkedIn](www.linkedin.com/in/adriana-stanciu-fl)
 * [Twitter](https://twitter.com/adriana__St)
 
+
+## Check my Projects
+* [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/)
+* [BAgency](https://fac22.github.io/BAgency/)
+* [FAC projects gallery](https://aaadriana.github.io/fac-project-collection/week-two/Projects-Gallery/)
+* [FAC learning collections](https://aaadriana.github.io/fac-project-collection/)
+* [FAC application website](https://aaadriana.github.io/application-website/)
+
 <!--
 **aaadriana/aaadriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
