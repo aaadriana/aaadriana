@@ -17,7 +17,7 @@ My coding journey started in 2020 when I decided to experiment with online tutor
 ## Profile Links 🔗
 * [FreeCodeCamp](https://www.freecodecamp.org/aaadriana)
 * [CodeWars](https://www.codewars.com/users/aaadriana)
-* [LinkedIn](www.linkedin.com/in/adriana-stanciu-fl)
+* [LinkedIn](https://www.linkedin.com/in/adriana-stanciu-fl/)
 * [Twitter](https://twitter.com/adriana__St)
 
 
