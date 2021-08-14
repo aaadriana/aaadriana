@@ -22,11 +22,13 @@ My coding journey started in 2020 when I decided to experiment with online tutor
 
 
 ## Check my Projects
-* [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/)
-* [BAgency](https://fac22.github.io/BAgency/)
-* [FAC projects gallery](https://aaadriana.github.io/fac-project-collection/week-two/Projects-Gallery/)
-* [FAC learning collection](https://aaadriana.github.io/fac-project-collection/)
-* [FAC application website](https://aaadriana.github.io/application-website/)
+Project | Repo
+------------ | -------------
+[Covid Tracker](https://fac22.github.io/Adriana_Elena-API/)| [Repo](https://github.com/fac22/Adriana_Elena-API)
+[BAgency](https://fac22.github.io/BAgency/)|[Repo](https://github.com/fac22/BAgency)
+[FAC projects gallery](https://aaadriana.github.io/fac-project-collection/week-two/Projects-Gallery/)|[Repo](https://github.com/aaadriana/Projects-Gallery)
+[FAC learning collection](https://aaadriana.github.io/fac-project-collection/)|[Repo](https://github.com/aaadriana/fac-project-collection)
+[FAC application website](https://aaadriana.github.io/application-website/)|[Repo](https://github.com/aaadriana/application-website)
 <!--
 **aaadriana/aaadriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
