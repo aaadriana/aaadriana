@@ -24,6 +24,9 @@ My coding journey started in 2020 when I decided to experiment with online tutor
 ## Check my Projects
 Project | Repo
 ------------ | -------------
+[Subcomfy](https://week6-basc3.vercel.app/)| [Repo](https://github.com/fac22/week6-basc)
+[Squid Game-Hangman](https://reverent-agnesi-237e12.netlify.app/)| [Repo](https://github.com/fac22/week5-AS)
+[FAC- Want to solve a mystery?](https://whoami-app.herokuapp.com/)| [Repo](https://github.com/fac22/week4-CASE)
 [Covid Tracker](https://fac22.github.io/Adriana_Elena-API/)| [Repo](https://github.com/fac22/Adriana_Elena-API)
 [BAgency](https://fac22.github.io/BAgency/)|[Repo](https://github.com/fac22/BAgency)
 [FAC projects gallery](https://aaadriana.github.io/fac-project-collection/week-two/Projects-Gallery/)|[Repo](https://github.com/aaadriana/Projects-Gallery)
